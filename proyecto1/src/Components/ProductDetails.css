@@ -1,0 +1,31 @@
+.product-details {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .product-details img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
+  
+  .color-options {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .color-swatch {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    margin-top: 20px;
+  }
+  
